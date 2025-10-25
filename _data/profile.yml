@@ -30,8 +30,8 @@ I founded the Institute of Deep Perception Technology of JITRI, and previously s
   </p>
 
 portrait_url: /assets/images/portrait.jpg
-#portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Purdue University
