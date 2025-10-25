@@ -1,10 +1,10 @@
-primary_name: "Your Name"
+primary_name: "Yutao (Max) Yue"
 secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Associate Professor
+- name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
