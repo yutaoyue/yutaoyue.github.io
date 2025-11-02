@@ -41,7 +41,7 @@ education:
   position: Ph.D. in Computational Physics
   date: Aug. 2006 - Dec. 2010
 - name: Purdue University, United States
-  logo: /assets/purdue.png
+  logo: /assets/purduelogo.png
   position: Master in Physics
   date: Aug. 2004 - May 2006
 - name: University of Science and Technology of China
@@ -51,7 +51,7 @@ education:
 
 experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/hkustgzlogo.png
+  logo: /assets/hkustgz.png
   position: Associate Professor (副教授)
   date: Mar. 2024 - present
 - name: Jiangsu Industrial Technology Research Institute - Institute of Deep Perception Technology
