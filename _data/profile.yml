@@ -5,7 +5,7 @@ navbar_name: "Your Name"
 positions:
 - name: Associate Professor
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/hkustgz.png  # Logo is optional
+  logo: https://tiansuya.github.io/yutaoyue/assets/hkustgz.png  # Logo is optional
 
 
 email: "yutaoyue@hkust-gz.edu.cn"
