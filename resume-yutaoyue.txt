@@ -1,0 +1,422 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !Mode:: "TeX:UTF-8"
+
+\documentclass{resume}
+\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+%\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{cite}
+
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+
+\name{岳玉涛 Yutao (Max) Yue}
+
+% {E-mail}{mobilephone}{homepage}
+% be careful of _ in emaill address
+\contactInfo{(+86) 130-2886-8283}{yutaoyue@hkust-gz.edu.cn}{副教授}{IEEE \& CCF 高级会员}
+% {E-mail}{mobilephone}
+% keep the last empty braces!
+%\contactInfo{xxx@yuanbin.me}{(+86) 131-221-87xxx}{}
+ 
+\section{个人简介}
+香港科技大学（广州）副教授，人工智能学域与智能交通学域双聘，IEEE \& CCF 高级会员。深圳市南山区政协委员。长期从事人工智能、计算机视觉、雷达信号处理、多模态融合感知等领域研究。曾获第十届吴文俊人工智能科学技术奖、2021中国AI金雁奖等荣誉。发表论文60余篇，拥有中美欧专利400余件。\textbf{曾任江苏省产业技术研究院深度感知技术研究所创始人兼所长。}
+
+% \section{\faGraduationCap\ 教育背景}
+\section{教育背景}
+\datedsubsection{\textbf{美国普渡大学},计算物理学,\textit{博士}}{2006.8 - 2010.12}
+\ Purdue University, United States, Ph.D in Computational Physics
+\datedsubsection{\textbf{美国普渡大学},物理学,\textit{硕士}}{2004.8 - 2006.5}
+\ Purdue University, United States, Master in Physics
+\datedsubsection{\textbf{中国科学技术大学},物理学,\textit{学士}}{1999.8 - 2004.5}
+\ University of Science and Technology of China, Bachelor in Physics
+
+% \end{itemize}
+
+\section{工作经历}
+\datedsubsection{\textbf{香港科技大学（广州）}, 副教授}{2024.03 - 至今}
+\begin{itemize}
+  \item 人工智能学域与智能交通学域双聘，负责人工智能、自动驾驶等前沿技术研究
+  \item 兼任西交利物浦大学博士生导师、英国利物浦大学荣誉博士生导师
+  \item 指导研究生在ICML、ACM MM、ICRA、IROS等顶级会议发表论文20余篇
+\end{itemize}
+
+\datedsubsection{\textbf{江苏省产业技术研究院深度感知技术研究所}, 创始人、所长/首席科学顾问}{2018.02 - 至今}
+\begin{itemize}
+  \item \textbf{2018.02-2024.02任创始人、所长；2024.03至今任首席科学顾问}
+  \item 负责研究所整体规划建设，团队规模从0发展到80余人，累计获得科研经费超1.5亿元
+  \item 主导车路协同、毫米波雷达、多模态融合感知等核心技术研发与产业化
+  \item 建立完整的产学研一体化创新体系，孵化多家高科技企业
+\end{itemize}
+
+\datedsubsection{\textbf{深圳光启高等理工研究院/光启集团}, 研究员/科学家/高级科学家/事业部部长}{2011.01 - 2017.11}
+\begin{itemize}
+  \item \textbf{历任研究员、科学家、高级科学家、事业部部长}
+  \item 2016.08-2017.11兼任光启科学（00439.HK）首席人才官、光启大学执行副校长
+  \item 2012.06-2017.05担任广东省"珠江计划"第三批引进创新科研团队带头人
+  \item 负责超材料、卫星通信、空间波束赋形等核心技术研发，团队规模40余人
+\end{itemize}
+
+\datedsubsection{\textbf{美国普渡大学}, 教学助理/研究助理}{2004.08 - 2010.12}
+\begin{itemize}
+  \item 博士期间担任计算物理相关课程教学助理，协助指导本科生实验
+  \item 从事计算物理、数值模拟等相关研究工作
+\end{itemize}
+
+% \begin{onehalfspacing}
+% \end{onehalfspacing}
+
+% \datedsubsection{\textbf{DID-ACTE} 荷兰莱顿}{2015年}
+% \role{本科毕业设计}{LIACS 交换生}
+% 利用结巴分词对中国古文进行分词与词性标注，用已有领域知识训练形成 classifier 并对结果进行调优
+% \begin{onehalfspacing}
+% \begin{itemize}
+%   \item 利用结巴分词对中国古文进行分词与词性标注
+%   \item 利用已有领域知识训练形成 classifier, 并用分词结果进行测试反馈
+%   \item 尝试不同规则，对 classifier 进行调优
+% \end{itemize}
+% \end{onehalfspacing}
+
+\section{学术成果概览}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.2ex]
+  \item \textbf{论文}: 发表学术论文60余篇，其中包括ICML、ACM MM、ICRA、IROS等人工智能与机器人领域顶级会议论文（详见\textbf{附录1}）
+  \item \textbf{专利}: 中国专利379件（已授权373件，其中发明360件）；美国专利18件；欧盟专利7件
+  \item \textbf{项目}: 主持/参与科研项目14项，总经费约1.5亿元，包括国家自然科学基金、省部级重大专项等（详见\textbf{附录2}）
+  \item \textbf{代表性工作}: 多模态融合感知、4D毫米波雷达技术、自动驾驶感知系统、AI+医疗等
+\end{itemize}
+
+% \section{\faHeartO\ 项目/作品摘要}
+% \section{项目/作品摘要}
+% \datedline{\textit{An Integrated Version of Security Monitor Vis System}, https://hijiangtao.github.io/ss-vis-component/ }{}
+% \datedline{\textit{Dark-Tech}, https://github.com/hijiangtao/dark-tech/ }{}
+% \datedline{\textit{融合社交网络数据挖掘的电视节目可视化分析系统}, https://hijiangtao.github.io/variety-show-hot-spot-vis/}{}
+% \datedline{\textit{LeetCodeOJ Solutions}, https://github.com/hijiangtao/LeetCodeOJ}{}
+% \datedline{\textit{Info-Vis}, https://github.com/ISCAS-VIS/infovis-ucas}{}
+
+
+\section{奖项与荣誉}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.2ex]
+  \item \textbf{人才计划}: 广东省"珠江计划"引进创新科研团队带头人、深圳市"孔雀计划"B类人才
+  \item \textbf{江苏省"双创计划"人才}、清华-青腾未来科技学堂学员
+  \item \textbf{科技奖项}: 第十届吴文俊人工智能科学技术奖三等奖、2021中国AI金雁奖
+  \item \textbf{博览会奖项}: 2021世界物联网博览会新技术新产品新应用成果奖
+  \item \textbf{展会奖项}: 中国国际高新技术成果交易会"优秀产品奖"
+  \item \textbf{创新奖项}: 中国电子信息博览会创新产品与应用"金奖"
+\end{itemize}
+
+\section{社会任职与学术活动}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.2ex]
+  \item \textbf{学术组织}: IEEE高级会员、CCF高级会员、深圳市南山区政协委员
+  \item \textbf{期刊审稿}: ICML、ACM MM、CVPR、ICLR、KDD、ICRA、IROS、ITSC、WWW等顶级会议审稿人
+  \item \textbf{学术会议}: HP3C 2023、ICCC 2022、BDAI 2022、CEII 2022等国际会议主旨演讲人
+  \item \textbf{程序委员会}: BDAI 2023、HPCCT 2023等国际会议程序委员会主席
+  \item \textbf{行业协会}: 深圳市人工智能行业协会专委会成员、深圳/苏州CTO俱乐部成员
+  \item \textbf{科技评审}: 广东省、深圳市、江苏省、四川省、江西省科技项目评审专家
+  \item \textbf{读书会}: 集智俱乐部大模型2.0、通用人工智能、因果涌现读书会联合发起人
+\end{itemize}
+
+\section{兴趣爱好}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.2ex]
+  \item \textbf{天文摄影}: 拍摄星云、星系、星团等天体70余个，擅长深空摄影技术
+  \item \textbf{乒乓球}: 博士期间组建普渡大学乒乓球协会，招募会员70余人，担任队长多年
+  \item \textbf{运动钓鱼}: 多次破当地记录，获美国印第安纳州"年度最佳鱼"荣誉
+  \item 组建华人圈钓鱼社交组织，带队参加全美大学生乒乓球联赛(NCTTA)
+\end{itemize}
+
+\vspace{12pt}
+\textbf{\large 附录1：代表性论文列表}
+\vspace{0.5em}
+
+%% 论文列表 - 使用BibTeX引用paper.bib文件
+% \makeatletter
+% \renewcommand{\@biblabel}[1]{}  % 移除编号前的标签
+% \makeatother
+\renewcommand{\refname}{}  % 移除参考文献标题
+% \renewcommand{\bibname}{}  % 移除参考文献标题(book类)
+\nocite{*}  % 显示所有未引用的论文
+\bibliographystyle{plain}  % 标准引用样式
+\begingroup
+\renewcommand{\section}[2]{} 
+\begin{thebibliography}{10}
+
+  \bibitem{Chang:etal:STPCI:ICASSP2025}
+  Qing Chang, Wei Dai, and Yutao Yue.
+  \newblock Spatial-temporal perception with causal inference for naturalistic driving action recognition （基于因果推理的时空感知用于自然驾驶行为识别）.
+  \newblock In {\em Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025, 信号处理领域顶会, h5-index 129)}, 2025.
+  
+  \bibitem{Chen:etal:ANT:ACMMM2025}
+  Wenshuo Chen, Kuimou Yu, Haozhe Jia, Kaishen Yuan, Zexu Huang, Bowen Tian, Songning Lai, Hongru Xiao, Erhang Zhang, Lei Wang, and Yutao Yue.
+  \newblock Ant: Adaptive neural temporal-aware text-to-motion model （ant：自适应神经时间感知文本到动作模型）.
+  \newblock In {\em Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, 人工智能顶会, h5-index 119)}, 2025.
+  
+  \bibitem{Guan:etal:RFR:ESWA2025}
+  Runwei Guan, Rongsheng Hu, Zhuhao Zhou, Tianlang Xue, Ka~Lok Man, Jeremy Smith, Eng~Gee Lim, Weiping Ding, and Yutao Yue.
+  \newblock Referring flexible image restoration （参考指令灵活图像修复）.
+  \newblock {\em Expert Systems with Applications (Q1 期刊, 排名11/307, 百分位96.0\%, IF=7.5)}, 274:126857, 2025.
+  
+  \bibitem{Guan:etal:WaterVG:IEEETransITS2025}
+  Runwei Guan, Liye Jia, Shanliang Yao, Fengyufan Yang, Erick Purwanto, Sheng Xu, Xiaohui Zhu, Eng~Gee Lim, Jeremy Smith, Ka~Lok Man, Xuming Hu, and Yutao Yue.
+  \newblock Watervg: Waterway visual grounding based on text-guided vision and mmwave radar （基于文本引导视觉和毫米波雷达的水道视觉理解）.
+  \newblock {\em IEEE Transactions on Intelligent Transportation Systems (Q1 期刊, 排名3/182, 百分位98.6\%, IF=6.3)}, 2025.
+  
+  \bibitem{Guan:etal:NanoMVG:IROS2025}
+  Runwei Guan, Jianan Liu, Liye Jia, Haocheng Zhao, Shanliang Yao, Xiaohui Zhu, Ka~Lok Man, Eng~Gee Lim, Jeremy~S. Smith, and Yutao Yue.
+  \newblock Nanomvg: Usv-centric low-power multi-task visual grounding based on prompt-guided camera and 4d mmwave radar （nanomvg：基于提示引导相机与4d毫米波雷达的无人艇低功耗多任务视觉定位系统）.
+  \newblock In {\em Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025, 机器人与自动驾驶领域顶会, h5-index 86)}, 2025.
+  
+  \bibitem{Guan:etal:Mask-VRDet:RAS2024}
+  Runwei Guan, Shanliang Yao, Lulu Liu, Xiaohui Zhu, Ka~Lok Man, Yong Yue, Jeremy Smith, Eng~Gee Lim, and Yutao Yue.
+  \newblock Mask-vrdet: A robust riverway panoptic perception model based on dual graph fusion of vision and 4d mmwave radar （基于视觉与4d毫米波雷达双图融合的鲁棒河道全景感知模型）.
+  \newblock {\em Robotics and Autonomous Systems (Q1 期刊, 排名5/399, 百分位98.0\%, IF=5.6)}, 2024.
+  
+  \bibitem{Guan:etal:ASY-VRNet:IROS2024}
+  Runwei Guan, Shanliang Yao, Ka~Lok Man, Xiaohui Zhu, Yong Yue, Jeremy Smith, Eng~Gee Lim, and Yutao Yue.
+  \newblock Asy-vrnet: Waterway panoptic driving perception model based on asymmetric fair fusion of vision and 4d mmwave radar （基于视觉和4d毫米波雷达非对称公平融合的水道全景驾驶感知模型）.
+  \newblock In {\em Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024, 机器人与自动驾驶领域顶会, h5-index 86)}, 2024.
+  
+  \bibitem{Guan:etal:Achelous:ITSC2023}
+  Runwei Guan, Shanliang Yao, Xiaohui Zhu, Ka~Lok Man, Eng~Gee Lim, Jeremy Smith, Yong Yue, and Yutao Yue.
+  \newblock Achelous: A fast unified water-surface panoptic perception framework based on fusion of monocular camera and 4d mmwave radar （基于单目摄像头与4d毫米波雷达融合的水面全景感知快速统一框架）.
+  \newblock In {\em Proceedings of the IEEE Intelligent Transportation Systems Conference (ITSC 2023, 智能交通领域顶会, h5-index 55)}, 2023.
+  
+  \bibitem{Guan:etal:Efficient-VRNet:EAAI2023}
+  Runwei Guan, Shanliang Yao, Xiaohui Zhu, Ka~Lok Man, Yong Yue, Jeremy~S. Smith, Eng~Gee Lim, and Yutao Yue.
+  \newblock Efficient-vrnet: An exquisite fusion network for riverway panoptic perception based on asymmetric fair fusion of vision and 4d mmwave radar （基于视觉和4d毫米波雷达不对称的公平融合vrnet模型）.
+  \newblock {\em Engineering Applications of Artificial Intelligence (Q1 期刊, 排名8/89, 百分位91.6\%, IF=8.0)}, 2023.
+  
+  \bibitem{Guan:etal:Talk2Radar:ICRA2025}
+  Runwei Guan, Ruixiao Zhang, Ningwei Ouyang, Jianan Liu, Ka~Lok Man, Xiaohao Cai, Ming Xu, Jeremy Smith, Eng~Gee Lim, Yutao Yue, and Hui Xiong.
+  \newblock Talk2radar: Bridging natural language with 4d mmwave radar for 3d referring expression comprehension （自然语言与4d毫米波雷达融合用于3d指代表达理解）.
+  \newblock In {\em Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, 机器人与自动驾驶领域顶会, h5-index 122)}, 2025.
+  
+  \bibitem{Hu:etal:IMTS:ICML2025}
+  Zhangyi Hu, Jiemin Wu, Hua Xu, Mingqian Liao, Ninghui Feng, Bo~Gao, Songning Lai, and Yutao Yue.
+  \newblock Imts is worth time×channel patches: Visual masked autoencoders for irregular multivariate time series prediction （时间×通道：用于不规则多元时序预测的视觉掩码自编码器）.
+  \newblock In {\em Proceedings of the International Conference on Machine Learning (ICML 2025, 人工智能顶会, h5-index 272)}, 2025.
+  
+  \bibitem{Ji:etal:BioD2C:MICCAI2025}
+  Zhengyang Ji, Shang Gao, Li~Liu, Yifan Jia, and Yutao Yue.
+  \newblock Biod2c: A dual-level semantic consistency constraint framework for biomedical vqa （biod2c：面向生物医学视觉问答的双层语义一致性约束框架）.
+  \newblock In {\em Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025, AI 医疗领域顶会)}, 2025.
+  
+  \bibitem{Jia:etal:PIRA:ACMMM2025}
+  Haozhe Jia, Wenshuo Chen, Zhihui Huang, Lei Wang, Hongru Xiao, Nanqian Jia, Keming Wu, Songning Lai, Bowen Tian, and Yutao Yue.
+  \newblock Physics-informed representation alignment for sparse radio-map reconstruction （基于物理信息的表示对齐用于稀疏无线地图重建）.
+  \newblock In {\em Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, 人工智能顶会, BNI 主会优秀论文, h5-index 119)}, 2025.
+  
+  \bibitem{Lai:etal:TimeSieve:ACMMM2025}
+  Songning Lai, Ninghui Feng, Jiechao Gao, Hao Wang, Haochen Sui, Xin Zou, Jiayu Yang, Wenshuo Chen, Lijie Hu, Hang Zhao, Xuming Hu, and Yutao Yue.
+  \newblock From guesswork to guarantee: Towards faithful multimedia web forecasting with timesieve （从猜测到保证：借助 timesieve 实现多媒体网络预测的准确性）.
+  \newblock In {\em Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, 人工智能顶会, h5-index 119)}, 2025.
+  
+  \bibitem{Lai:etal:CL:ACMMM2025}
+  Songning Lai, Mingqian Liao, Zhangyi Hu, Jiayu Yang, Wenshuo Chen, Hongru Xiao, Jianheng Tang, Haicheng Liao, and Yutao Yue.
+  \newblock Learning new concepts, remembering the old: Continual learning for multimodal concept bottleneck models （学习新概念，不忘旧知识：多模态概念瓶颈模型的持续学习）.
+  \newblock In {\em Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, 人工智能顶会, BNI 主会优秀论文, h5-index 119)}, 2025.
+  
+  \bibitem{Lai:etal:DRIVE:ICRA2025}
+  Songning Lai, Tianlang Xue, Hongru Xiao, Lijie Hu, Jiemin Wu, Ninghui Feng, Runwei Guan, Haicheng Liao, Zhenning Li, and Yutao Yue.
+  \newblock Drive: Dependable robust interpretable visionary ensemble framework in autonomous driving （自动驾驶中可靠、稳健、可解释的视觉集成框架）.
+  \newblock In {\em Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, 机器人与自动驾驶领域顶会, h5-index 122)}, 2025.
+  
+  \bibitem{Tian:etal:Text2Weight:ACMMM2025}
+  Bowen Tian, Wenshuo Chen, Zexi Li, Songning Lai, Jiemin Wu, and Yutao Yue.
+  \newblock Text2weight: Bridging natural language and neural network weight spaces （text2weight：自然语言与神经网络权重空间的联通）.
+  \newblock In {\em Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, 人工智能顶会, h5-index 119)}, 2025.
+  
+  \bibitem{Yao:etal:RadarCamFusion:IEEETransIV2023}
+  Shanliang Yao, Runwei Guan, Xiaoyu Huang, Zhuoxiao Li, Xiangyu Sha, Yong Yue, Eng~Gee Lim, Hyungjoon Seo, Ka~Lok Man, Xiaohui Zhu, and Yutao Yue.
+  \newblock Radar-camera fusion for object detection and semantic segmentation in autonomous driving: A comprehensive review （自动驾驶中的雷达-摄像头融合用于目标检测和语义分割：全面综述）.
+  \newblock {\em IEEE Transactions on Intelligent Vehicles (Q1 期刊, 排名5/353, 百分位98.7\%, IF=14.0)}, 2023.
+  
+  \bibitem{Yao:etal:RadarReview:IEEETransITS2025}
+  Shanliang Yao, Runwei Guan, Zitian Peng, Chenhang Xu, Yilu Shi, Weiping Ding, Eng~Gee Lim, Yong Yue, Hyungjoon Seo, Ka~Lok Man, Jieming Ma, Xiaohui Zhu, and Yutao Yue.
+  \newblock Exploring radar data representations in autonomous driving: A comprehensive review （自动驾驶中雷达数据表示的探索：全面综述）.
+  \newblock {\em IEEE Transactions on Intelligent Transportation Systems (Q1 期刊, 排名3/182, 百分位98.6\%, IF=6.3)}, 2025.
+  
+  \bibitem{Yao:etal:RadarReview:IEEETransITS2024}
+  Shanliang Yao, Runwei Guan, Zitian Peng, Chenhang Xu, Yilu Shi, Yong Yue, Eng~Gee Lim, Hyungjoon Seo, Ka~Lok Man, Xiaohui Zhu, and Yutao Yue.
+  \newblock Exploring radar data representations in autonomous driving: A comprehensive review （自动驾驶中的雷达数据表示综述）.
+  \newblock {\em IEEE Transactions on Intelligent Transportation Systems (Q1 期刊, 排名3/182, 百分位98.6\%, IF=7.9)}, 2024.
+  
+  \bibitem{Yao:etal:Waterscenes:IEEETransITS2024}
+  Shanliang Yao, Runwei Guan, Zhaodong Wu, Yi~Ni, Zile Huang, Ryan~Wen Liu, Yong Yue, Weiping Ding, Eng~Gee Lim, Hyungjoon Seo, Ka~Lok Man, Jieming Ma, Xiaohui Zhu, and Yutao Yue.
+  \newblock Waterscenes: A multi-task 4d radar-camera fusion dataset and benchmarks for autonomous driving on water surfaces （一个用于水面自动驾驶的多任务4d雷达相机融合数据集和基准测试）.
+  \newblock {\em IEEE Transactions on Intelligent Transportation Systems (Q1 期刊, 排名3/182, 百分位98.6\%, IF=7.9)}, 25, 2024.
+  
+  \bibitem{Zeng:etal:SSLPointCloud:ESWA2024}
+  Changyu Zeng, Wei Wang, Anh Nguyen, Jimin Xiao, and Yutao Yue.
+  \newblock Self-supervised learning for point cloud data: A survey （点云数据自监督学习综述）.
+  \newblock {\em Expert Systems with Applications (Q1 期刊, 排名11/307, 百分位96.0\%, IF=7.5)}, 2024.
+  
+  \bibitem{Zeng:etal:NUMINA:EMNLP2025}
+  Changyu Zeng, Yifan Wang, Zimu Wang, Wei Wang, Zhengni Yang, Muyi Bao, Jimin Xiao, Anh Nguyen, and Yutao Yue.
+  \newblock Numina: A natural understanding benchmark for multi-dimensional intelligence and numerical reasoning abilities （numina：多维智能与数值推理能力的自然理解基准）.
+  \newblock In {\em Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, 自然语言处理领域顶会, h5-index 218)}, 2025.
+  
+  \bibitem{Zhang:etal:radarODE:IEEETransMC2025}
+  Yuanyuan Zhang, Runwei Guan, Lingxiao Li, Rui Yang, Yutao Yue, and Eng~Gee Lim.
+  \newblock radarode: an ode-embedded deep learning model for contactless ecg reconstruction from millimeter-wave radar （雷达 ode：一种用于从毫米波雷达无接触重建心电图的嵌入常微分方程的深度学习模型）.
+  \newblock {\em IEEE Transactions on Mobile Computing (Q1 期刊, 排名3/182, 百分位96.5\%, IF=8.9)}, 2025.
+  
+  \bibitem{Zhang:etal:radarODE-MTL:IEEETransIM2025}
+  Yuanyuan Zhang, Rui Yang, Yutao Yue, and Eng~Gee Lim.
+  \newblock radarode-mtl: A multitask learning framework with eccentric gradient alignment for robust radar-based ecg reconstruction （雷达 ode-mtl：一种具有偏心梯度对齐的多任务学习框架，用于基于雷达的心电图稳健重建）.
+  \newblock {\em IEEE Transactions on Instrumentation and Measurement (Q1 期刊, 排名7/76, 百分位91.5\%, IF=5.6)}, 74, 2025.
+  
+  \bibitem{Zhang:etal:RadarCardiac:IEEETransIM2023}
+  Yuanyuan Zhang, Rui Yang, Yutao Yue, Eng~Gee Lim, and Zidong Wang.
+  \newblock An overview of algorithms for contactless cardiac feature extraction from radar signals: Advances and challenges （雷达信号无接触心脏特征提取算法综述：进展与挑战）.
+  \newblock {\em IEEE Transactions on Instrumentation and Measurement (Q1 期刊, 排名7/76, 百分位91.5\%, IF=5.6)}, 2023.
+  
+  \bibitem{Zhao:etal:RePaIR:NeuralNet2024}
+  Haocheng Zhao, Runwei Guan, Ka~Lok Man, Limin Yu, and Yutao Yue.
+  \newblock Repair: Repaired pruning at initialization resilience （初始化修复剪枝的鲁棒性）.
+  \newblock {\em Neural Networks (Q1 期刊, 排名4/115, 百分位96.0\%, IF=6.0)}, 2024.
+  
+  \bibitem{Zhao:etal:UniBEVFusion:ICRA2025}
+  Haocheng Zhao, Runwei Guan, Taoyu Wu, Ka~Lok Man, Limin Yu, and Yutao Yue.
+  \newblock Unibevfusion: Unified radar-vision bevfusion for 3d object detection （统一的雷达-视觉bev融合用于3d目标检测）.
+  \newblock In {\em Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, 机器人与自动驾驶领域顶会, h5-index 122)}, 2025.
+  
+  \bibitem{Zhou:etal:DeepRadar:Sensors2022}
+  Yi~Zhou, Lulu Liu, Haocheng Zhao, Miguel López-Benítez, Limin Yu, and Yutao Yue.
+  \newblock Towards deep radar perception for autonomous driving: Datasets, methods, and challenges （迈向自主驾驶的深度雷达感知：数据集，方法和挑战）.
+  \newblock {\em Sensors (专注于传感器领域的优质期刊)}, 2022.
+  
+  \bibitem{Zhou:etal:Text2Doppler:IEEESensLett2024}
+  Yi~Zhou, Miguel López-Benítez, Limin Yu, and Yutao Yue.
+  \newblock Text2doppler: Generating radar micro–doppler signatures for human activity recognition via textual descriptions （通过文本描述生成雷达微型多普勒签名，以识别人类活动的识别）.
+  \newblock {\em IEEE Sensors Letters (专注于传感器领域的优质期刊)}, 2024.
+  
+  \bibitem{Zhou:etal:RAV4D:RadarConf2024}
+  Yi~Zhou, Ningfei Song, Jieming Ma, Ka~Lok Man, Miguel Lopez-Benitez, Limin Yu, and Yutao Yue.
+  \newblock Rav4d: A radar-audio-visual dataset for indoor multi-person tracking （用于室内多人跟踪的雷达音视频数据集）.
+  \newblock In {\em Proceedings of the IEEE Radar Conference (RadarConf 2024, 雷达领域顶会, h5-index 31)}, 2024.
+  
+  \bibitem{Zhou:etal:CorruptionRobustness:IEEERadarSys2024}
+  Yi~Zhou, Xuliang Yu, Miguel Lopez-Benitez, Limin Yu, and Yutao Yue.
+  \newblock Corruption robustness analysis of radar micro-doppler classification for human activity recognition （雷达微多普勒分类在人类活动识别中的抗干扰鲁棒性分析）.
+  \newblock {\em IEEE Transactions on Radar Systems (IEEE 新推出的Transaction系列的雷达系统旗舰期刊)}, 2024.
+  
+  \bibitem{Zhou:etal:SwimRecog:IEEESensJ2024}
+  Yi~Zhou, Xuliang Yu, Miguel Lopez-Benitez, Limin Yu, and Yutao Yue.
+  \newblock Radar-based swimming activity recognition with temporal dynamic convolution and spectral data augmentation （基于雷达的游泳活动识别：时序动态卷积与频谱数据增强）.
+  \newblock {\em IEEE Sensors Journal (Q1 期刊, 排名20/141, 百分位86.0\%, IF=4.3)}, 2024.
+  
+\end{thebibliography}
+  
+
+\vspace{1em}
+\textbf{\large 附录2：主要科研项目列表}
+\vspace{0.5em}
+
+\begin{enumerate}
+\item \textbf{香港科技大学(广州)—编程猫青少年AI教育联合实验室}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：校企联合实验室
+  \item 项目经费：900万元
+  \item 起止时间：2025.05-2027.04
+  \item 在项目中的角色：Co-PI
+  \item 项目人数：40人
+\end{itemize}
+
+\item \textbf{AI医生及AI排班项目}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：技术开发合同
+  \item 项目经费：600万元
+  \item 起止时间：2024.06-2027.06
+  \item 在项目中的角色：Co-PI
+  \item 项目人数：10人
+\end{itemize}
+
+\item \textbf{【申请中】基于雷达视频流融合的复杂交通场景行人意图和碰撞预测研究}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：面上项目
+  \item 来源：国家自然科学基金委
+  \item 项目经费：60万元
+  \item 起止时间：2026.01-2028.12
+  \item 在项目中的角色：PI
+  \item 项目人数：5人
+\end{itemize}
+
+\item \textbf{基于基座模型的多模态感知}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：内部立项
+  \item 来源：江苏省产研院深度感知所JITRI-IDPT
+  \item 项目经费：100万元
+  \item 起止时间：2022.12-2023.11
+  \item 在项目中的角色：项目负责人
+  \item 项目人数：5人
+\end{itemize}
+
+\item \textbf{面向多任务的雷达视觉融合感知技术研究}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：内部立项
+  \item 来源：江苏省产研院深度感知所JITRI-IDPT
+  \item 项目经费：250万元
+  \item 起止时间：2021.07-2023.06
+  \item 在项目中的角色：项目负责人
+  \item 项目人数：12人
+\end{itemize}
+
+\item \textbf{新型智能交通毫米波雷达技术}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：江苏省"双创计划"
+  \item 来源：江苏省
+  \item 项目经费：80万元
+  \item 起止时间：2022.08-2024.09
+  \item 在项目中的角色：项目负责人
+  \item 项目人数：10人
+\end{itemize}
+
+\item \textbf{新型卫星通信技术研发与产业化}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：广东省引进第三批创新科研团队，纵向
+  \item 来源：广东省科技厅
+  \item 项目经费：4000万元（其中纵向经费1850万）
+  \item 起止时间：2012.06-2017.05
+  \item 在项目中的角色：团队带头人
+  \item 项目人数：30人
+\end{itemize}
+
+\item \textbf{超材料空间波束赋形技术研发}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：深圳市海外高层次人才创新创业专项，纵向
+  \item 来源：深圳市科技工贸和信息化委员会
+  \item 项目经费：1499万元（其中纵向经费100万）
+  \item 起止时间：2012.01-2013.12
+  \item 在项目中的角色：项目负责人
+  \item 项目人数：15人
+\end{itemize}
+
+\item \textbf{深度感知技术研究所建设（一期）}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：江苏省共建制新型研发机构建设
+  \item 来源：江苏省产业技术研究院、无锡高新区
+  \item 项目经费：4000万元（已全部到位）
+  \item 起止时间：2019.07-2021.06
+  \item 在项目中的角色：研究所创始人
+  \item 项目人数：50人
+\end{itemize}
+
+\item \textbf{深度感知技术研究所建设（二期）}
+\begin{itemize}[parsep=0.1ex]
+  \item 项目性质：江苏省共建制新型研发机构建设
+  \item 来源：江苏省产业技术研究院
+  \item 项目经费：3000万元
+  \item 起止时间：2021.07-2024.06
+  \item 在项目中的角色：研究所创始人
+  \item 项目人数：80人
+\end{itemize}
+
+\end{enumerate}
+
+\textbf{注}：以上项目总经费约1.5亿元，涵盖人工智能、雷达技术、多模态感知、产业化等多个重要研究方向。
+
+\end{document}

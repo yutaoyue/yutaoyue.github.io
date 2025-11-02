@@ -1,11 +1,12 @@
-primary_name: "Yutao (Max) Yue"
+primary_name: "岳玉涛 Yutao (Max) Yue"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Yutao Yue"
 
 positions:
-- name: Associate Professor
+- name: Associate Professor (副教授)
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: https://tiansuya.github.io/yutaoyue/assets/hkustgz.png  # Logo is optional
+- name: IEEE & CCF Senior Member
 
 
 email: "yutaoyue@hkust-gz.edu.cn"
@@ -22,12 +23,12 @@ email: "yutaoyue@hkust-gz.edu.cn"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    香港科技大学（广州）副教授，人工智能学域与智能交通学域双聘，IEEE & CCF 高级会员。深圳市南山区政协委员。
+    长期从事人工智能、计算机视觉、雷达信号处理、多模态融合感知等领域研究。
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    曾获第十届吴文俊人工智能科学技术奖、2021中国AI金雁奖等荣誉。发表论文60余篇，拥有中美欧专利400余件。
+    <strong>曾任江苏省产业技术研究院深度感知技术研究所创始人兼所长。</strong>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,27 +36,40 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Purdue University, United States
+  position: Ph.D. in Computational Physics
+  date: Aug. 2006 - Dec. 2010
+- name: Purdue University, United States
+  position: Master in Physics
+  date: Aug. 2004 - May 2006
+- name: University of Science and Technology of China
+  position: Bachelor in Physics
+  date: Aug. 1999 - May 2004
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: The Hong Kong University of Science and Technology (Guangzhou)
+  position: Associate Professor (副教授)
+  date: Mar. 2024 - present
+- name: Jiangsu Industrial Technology Research Institute - Institute of Deep Perception Technology
+  position: Founder & Director / Chief Scientific Advisor (创始人、所长/首席科学顾问)
+  date: Feb. 2018 - present
+- name: Kuang-Chi Institute of Advanced Technology / Kuang-Chi Group
+  position: Researcher / Scientist / Senior Scientist / Division Director
+  date: Jan. 2011 - Nov. 2017
+- name: Purdue University, United States
+  position: Teaching Assistant / Research Assistant
+  date: Aug. 2004 - Dec. 2010
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
+- name: 第十届吴文俊人工智能科学技术奖三等奖
+  date: 2023
+- name: 2021中国AI金雁奖
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: 2021世界物联网博览会新技术新产品新应用成果奖
   date: 2021
+- name: 广东省"珠江计划"引进创新科研团队带头人
+  date: 2012
+- name: 深圳市"孔雀计划"B类人才
+  date: 2012
+- name: 江苏省"双创计划"人才
+  date: 2022
