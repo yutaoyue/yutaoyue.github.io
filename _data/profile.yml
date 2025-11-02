@@ -37,21 +37,21 @@ portrait_caption: >-
 
 education:
 - name: Purdue University, United States
-  logo: /yutaoyue/assets/purduelogo.png
+  logo: /assets/purduelogo.png
   position: Ph.D. in Computational Physics
   date: Aug. 2006 - Dec. 2010
 - name: Purdue University, United States
-  logo: /yutaoyue/assets/purdue.png
+  logo: /assets/purdue.png
   position: Master in Physics
   date: Aug. 2004 - May 2006
 - name: University of Science and Technology of China
-  logo: /yutaoyue/assets/ustclogo.png
+  logo: /assets/ustclogo.png
   position: Bachelor in Physics
   date: Aug. 1999 - May 2004
 
 experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /yutaoyue/assets/hkustgzlogo.png
+  logo: /assets/hkustgzlogo.png
   position: Associate Professor (副教授)
   date: Mar. 2024 - present
 - name: Jiangsu Industrial Technology Research Institute - Institute of Deep Perception Technology
@@ -61,7 +61,7 @@ experience:
   position: Researcher / Scientist / Senior Scientist / Division Director
   date: Jan. 2011 - Nov. 2017
 - name: Purdue University, United States
-  logo: /yutaoyue/assets/purduelogo.png
+  logo: /assets/purduelogo.png
   position: Teaching Assistant / Research Assistant
   date: Aug. 2004 - Dec. 2010
 
