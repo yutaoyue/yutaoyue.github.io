@@ -4,8 +4,6 @@ date: 2025-01-03 00:01:00 +0800
 selected: true
 pub: "IEEE International Conference on Robotics and Automation (ICRA)"
 pub_date: "2025"
-abstract: >-
-  自然语言与4D毫米波雷达融合用于3D指代表达理解。本文提出了一种创新的方法，将自然语言处理与4D毫米波雷达技术相结合，实现3D场景中的指代表达理解。
 authors:
 - Runwei Guan
 - Ruixiao Zhang
