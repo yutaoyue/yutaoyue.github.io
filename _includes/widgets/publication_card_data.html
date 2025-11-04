@@ -4,18 +4,16 @@
         <a href="{{ 'publications' | relative_url }}">(view all <i class="fas fa-angle-double-right"></i>)</a>
     </h6>
     
-    {% assign all_selected = "" | split: "" %}
+    {% assign all_papers = "" | split: "" %}
     {% for year_data in site.data.publications %}
         {% assign year = year_data[0] %}
         {% assign papers = year_data[1] %}
         {% for paper in papers %}
-            {% if paper.selected %}
-                {% assign all_selected = all_selected | push: paper %}
-            {% endif %}
+            {% assign all_papers = all_papers | push: paper %}
         {% endfor %}
     {% endfor %}
     
-    {% for item in all_selected limit:include.limit %}
+    {% for item in all_papers limit:include.limit %}
         {% include widgets/publication_item_data.html item=item hide_bottom_border=forloop.last %}    
     {% endfor %}
     <h6 class="d-block p-3 mt-0 text-right">
