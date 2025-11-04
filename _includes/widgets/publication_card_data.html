@@ -1,7 +1,6 @@
 <div class="my-3 p-0 bg-white shadow-sm rounded-xl">
     <h6 class="border-bottom border-gray p-3 mb-0">
-        {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-star"></i> Selected Recent Publications{% endif %} 
-        <a href="{{ 'publications' | relative_url }}">(view all <i class="fas fa-angle-double-right"></i>)</a>
+        {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-file-alt"></i> Publications{% endif %}
     </h6>
     
     {% assign all_papers = "" | split: "" %}
@@ -13,10 +12,7 @@
         {% endfor %}
     {% endfor %}
     
-    {% for item in all_papers limit:include.limit %}
+    {% for item in all_papers %}
         {% include widgets/publication_item_data.html item=item hide_bottom_border=forloop.last %}    
     {% endfor %}
-    <h6 class="d-block p-3 mt-0 text-right">
-        <a href="{{ 'publications' | relative_url }}">All publications <i class="fas fa-angle-double-right"></i></a>
-    </h6>
 </div>

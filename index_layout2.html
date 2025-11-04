@@ -19,7 +19,6 @@ navbar_title: Home (Layout 2)
 {% if site.data.display.homepage.show_selected_publications %}
     {% 
         include widgets/publication_card_data.html 
-        title='<i class="fas fa-file-alt"></i> Recent Publications'
-        limit=site.data.display.homepage.num_publications
+        title='<i class="fas fa-file-alt"></i> Publications'
     %}
 {% endif %}
