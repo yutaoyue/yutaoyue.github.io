@@ -1,0 +1,298 @@
+@INPROCEEDINGS{Hu:etal:ICML2025,
+  author={Hu, Zhangyi and Wu, Jiemin and Xu, Hua and Liao, Mingqian and Feng, Ninghui and Gao, Bo and Lai, Songning and Yue*, Yutao},
+  year={2025},
+  title={{IMTS is Worth Time x Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction}},
+  booktitle={Proceedings of the International Conference on Machine Learning (ICML 2025, top-tier conference in artificial intelligence, h5-index 272)}
+}
+
+@INPROCEEDINGS{Jia:etal:ACMMM2025,
+  author={Jia, Haozhe and Chen, Wenshuo and Huang, Zhihui and Wang, Lei and Xiao, Hongru and Jia, Nanqian and Wu, Keming and Lai, Songning and Tian, Bowen and Yue*, Yutao},
+  year={2025},
+  title={{Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction}},
+  booktitle={Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, BNI Oral, top-tier conference in artificial intelligence, BNI = outstanding papers in the main conference, h5-index 119)}
+}
+
+@INPROCEEDINGS{Lai:etal:ACMMM2025,
+  author={Lai, Songning and Liao, Mingqian and Hu, Zhangyi and Yang, Jiayu and Chen, Wenshuo and Xiao, Hongru and Tang, Jianheng and Liao, Haicheng and Yue*, Yutao},
+  year={2025},
+  title={{Learning New Concepts, Remembering the Old: Continual Learning for Multimodal Concept Bottleneck Models}},
+  booktitle={Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, BNI Oral, top-tier conference in artificial intelligence, BNI = outstanding papers in the main conference, h5-index 119)}
+}
+
+@ARTICLE{GuanRW2025WaterVG,
+  author={Guan, Runwei and Jia, Liye and Yao, Shanliang and Yang, Fengyufan and Xu, Sheng and Purwanto, Erick and Zhu, Xiaohui and Man, Ka Lok and Lim, Eng Gee and Smith, Jeremy and Hu, Xuming and Yue*, Yutao},
+  journal={IEEE Transactions on Intelligent Transportation Systems (Q1, rank 3/182,   98.6\%, IF=6.3)},
+  title={{WaterVG: Waterway Visual Grounding Based on Text-Guided Vision and mmWave Radar}}, 
+  year={2025},
+  volume={26},
+  number={5},
+  pages={7275-7291},
+  keywords={Visualization;Grounding;Radar;Feature extraction;Sensor phenomena and characterization;Radar imaging;Sensor fusion;Point cloud compression;Millimeter wave communication;Electronic mail;Visual grounding;multi-modal learning;perception of unmanned surface vessels;interactive perception},
+  doi={10.1109/TITS.2025.3527011}
+}
+
+@INPROCEEDINGS{Chen:etal:ACMMM2025,
+  author={Chen, Wenshuo and Yu, Kuimou and Jia, Haozhe and Yuan, Kaishen and Huang, Zexu and Tian, Bowen and Lai, Songning and Xiao, Hongru and Zhang, Erhang and Wang, Lei and Yue*, Yutao},
+  year={2025},
+  title={{ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model}},
+  booktitle={Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, top-tier conference in artificial intelligence, h5-index 119)}
+}
+
+@INPROCEEDINGS{Lai:etal:ACMMM2025b,
+  author={Lai, Songning and Feng, Ninghui and Gao, Jiechao and Wang, Hao and Sui, Haochen and Zou, Xin and Yang, Jiayu and Chen, Wenshuo and Hu, Lijie and Zhao, Hang and Hu, Xuming and Yue*, Yutao},
+  year={2025},
+  title={{From Guesswork to Guarantee: Towards Faithful Multimedia Web Forecasting with TimeSieve}},
+  booktitle={Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, top-tier conference in artificial intelligence, h5-index 119)}
+}
+
+@INPROCEEDINGS{Tian:etal:ACMMM2025,
+  author={Tian, Bowen and Chen, Wenshuo and Li, Zexi and Lai, Songning and Wu, Jiemin and Yue*, Yutao},
+  year={2025},
+  title={{Text2Weight: Bridging Natural Language and Neural Network Weight Spaces}},
+  booktitle={Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, top-tier conference in artificial intelligence, h5-index 119)}
+}
+
+@INPROCEEDINGS{Guan:etal:IROS2025,
+  author={Guan, Runwei and Liu, Jianan and Jia, Liye and Zhao, Haocheng and Yao, Shanliang and Zhu, Xiaohui and Man, Ka Lok and Lim, Eng Gee and Smith, Jeremy S. and Yue*, Yutao},
+  year={2025},
+  title={{NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar}},
+  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025, top-tier conference in robotics and autonomous driving, h5-index 86)}
+}
+
+@INPROCEEDINGS{Zeng:etal:EMNLP2025,
+  author={Zeng, Changyu and Wang, Yifan and Wang, Zimu and Wang, Wei and Yang, Zhengni and Bao, Muyi and Xiao, Jimin and Nguyen, Anh and Yue*, Yutao},
+  year={2025},
+  title={{NUMINA: A Natural Understanding Benchmark for Multi-dimensional Intelligence and Numerical Reasoning Abilities}},
+  booktitle={Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, top-tier conference in natural language processing, h5-index 218)}
+}
+
+@INPROCEEDINGS{Zhao:etal:ICRA2025,
+  author={Zhao, Haocheng and Guan, Runwei and Wu, Taoyu and Man, Ka Lok and Yu*, Limin and Yue*, Yutao},
+  year={2025},
+  title={{UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection}},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, top-tier conference in robotics and autonomous driving, h5-index 122)}
+}
+
+@INPROCEEDINGS{Lai:etal:ICRA2025,
+  author={Lai, Songning and Xue, Tianlang and Xiao, Hongru and Hu, Lijie and Wu, Jiemin and Feng, Ninghui and Guan, Runwei and Liao, Haicheng and Li, Zhenning and Yue*, Yutao},
+  year={2025},
+  title={{DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving}},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, top-tier conference in robotics and autonomous driving, h5-index 122)}
+}
+
+@INPROCEEDINGS{Guan:etal:ICRA2025,
+  author={Guan, Runwei and Zhang, Ruixiao and Ouyang, Ningwei and Liu, Jianan and Man, Ka Lok and Cai, Xiaohao and Xu, Ming and Smith, Jeremy and Lim, Eng Gee and Yue*, Yutao and Xiong, Hui},
+  year={2025},
+  title={{Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension}},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, top-tier conference in robotics and autonomous driving, h5-index 122)}
+}
+
+@INPROCEEDINGS{Chang:etal:ICASSP2025,
+  author={Chang, Qing and Dai, Wei and Yue*, Yutao},
+  year={2025},
+  title={{Spatial-Temporal Perception with Causal Inference for Naturalistic Driving Action Recognition}},
+  booktitle={Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025, top-tier conference in signal processing, h5-index 129)},
+}
+
+@INPROCEEDINGS{Ji:etal:MICCAI2025,
+  author={Ji, Zhengyang and Gao, Shang and Liu, Li and Jia, Yifan and Yue*, Yutao},
+  year={2025},
+  title={{BioD2C: A Dual-Level Semantic Consistency Constraint Framework for Biomedical VQA}},
+  booktitle={Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025, top-tier conference in medical AI)}
+}
+
+@article{GuanRW2025Referring,
+title = {{Referring flexible image restoration}},
+journal={Expert Systems with Applications (Q1, rank 11/307,   96.0\%, IF=7.5)},
+volume = {274},
+pages = {126857},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.126857},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417425004798},
+author = {Runwei Guan and Rongsheng Hu and Zhuhao Zhou and Tianlang Xue and Ka Lok Man and Jeremy Smith and Eng Gee Lim and Weiping Ding and Yutao Yue*},
+keywords = {Referring flexible image restoration, Multi-modal learning, Cross attention, Prompt learning}
+}
+
+@article{ZhaoHC2025Pruning,
+title = {{RePaIR: Repaired pruning at initialization resilience}},
+journal = {Neural Networks (Q1, rank 4/115,   96.0\%, IF=6.0)},
+volume = {184},
+pages = {107086},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2024.107086},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608024010153},
+author = {Haocheng Zhao and Runwei Guan and Ka Lok Man and Limin Yu* and Yutao Yue*},
+keywords = {Pruning at initialization, Lipschitz, Neural network, Unstructured pruning}
+}
+
+@ARTICLE{ZhangYY2025radarODE,
+  author={Zhang, Yuanyuan and Guan, Runwei and Li, Lingxiao and Yang*, Rui and Yue*, Yutao and Lim, Eng Gee},
+  journal={IEEE Transactions on Mobile Computing (Q1, rank 3/182,   96.5\%, IF=8.9)},
+  title={{radarODE: An ODE-Embedded Deep Learning Model for Contactless ECG Reconstruction From Millimeter-Wave Radar}}, 
+  year={2025},
+  volume={24},
+  number={10},
+  pages={9806-9821},
+  keywords={Electrocardiography;Radar;Monitoring;Deep learning;Feature extraction;Mathematical models;Numerical models;Data mining;Baseband;Vibrations;Contactless cardiac monitoring;radio-frequency sensing;deep learning;vital sign monitoring;random body movement},
+  doi={10.1109/TMC.2025.3563945}
+}
+
+@ARTICLE{ZhangYY2025radarODEMTL,
+  author={Zhang, Yuanyuan and Yang*, Rui and Yue*, Yutao and Gee Lim, Eng},
+  journal={IEEE Transactions on Instrumentation and Measurement (Q1, rank 7/76,   91.5\%, IF=5.6)}, 
+  title={{radarODE-MTL: A Multitask Learning Framework With Eccentric Gradient Alignment for Robust Radar-Based ECG Reconstruction}}, 
+  year={2025},
+  volume={74},
+  number={},
+  pages={1-15},
+  keywords={Electrocardiography;Optimization;Noise;Radar;Monitoring;Feature extraction;Accuracy;Multitasking;Noise robustness;Vibrations;Body movement;contactless vital sign monitoring;deep learning;multitask learning (MTL);radio frequency sensing},
+  doi={10.1109/TIM.2025.3562975}}
+
+@ARTICLE{YaoSL2024WaterScenes,
+  author={Yao, Shanliang and Guan, Runwei and Wu, Zhaodong and Ni, Yi and Huang, Zile and Wen Liu, Ryan and Yue, Yong and Ding, Weiping and Gee Lim, Eng and Seo, Hyungjoon and Lok Man, Ka and Ma, Jieming and Zhu*, Xiaohui and Yue*, Yutao},
+ journal={IEEE Transactions on Intelligent Transportation Systems (Q1, rank 3/182,   98.6\%, IF=7.9)},
+  title={{WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmarks for Autonomous Driving on Water Surfaces}}, 
+  year={2024},
+  volume={25},
+  number={11},
+  pages={16584-16598},
+  keywords={Radar;Cameras;Radar imaging;Autonomous vehicles;Meteorology;Multitasking;Autonomous driving;Autonomous aerial vehicles;Autonomous driving;multi-task;4D radar-camera fusion;unmanned surface vehicle},
+  doi={10.1109/TITS.2024.3415772}}
+
+@INPROCEEDINGS{Guan:etal:IROS2024,
+  author={Guan, Runwei and Yao, Shanliang and Man, Ka Lok and Zhu, Xiaohui and Yue, Yong and Smith, Jeremy and Lim, Eng Gee and Yue*, Yutao},
+  year={2024},
+  title={{ASY-VRNet: Waterway Panoptic Driving Perception Model based on Asymmetric Fair Fusion of Vision and 4D mmWave Radar}},
+  booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024, top-tier conference in robotics and autonomous driving, h5-index 86)},
+}
+
+@ARTICLE{Zeng:etal:ESWA2024,
+title = {{Self-supervised learning for point cloud data: A survey}},
+journal={Expert Systems with Applications (Q1, rank 11/307,   96.0\%, IF=7.5)},
+volume = {237},
+pages = {121354},
+year = {2024},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2023.121354},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417423018560},
+author = {Changyu Zeng and Wei Wang and Anh Nguyen and Jimin Xiao and Yutao Yue*}
+}
+
+
+@ARTICLE{Zhou:etal:TRS2024,
+  author={Zhou, Yi and Yu, Xuliang and López-Benítez, Miguel and Yu*, Limin and Yue*, Yutao},
+  journal={IEEE Transactions on Radar Systems (new flagship Transactions series in radar systems)}, 
+  title={{Corruption Robustness Analysis of Radar Micro-Doppler Classification for Human Activity Recognition}}, 
+  year={2024},
+  volume={2},
+  number={},
+  pages={504-516},
+  keywords={Robustness;Noise measurement;Spectrogram;Perturbation methods;Human activity recognition;Doppler radar;Radar detection;Human activity recognition (HAR);micro-Doppler;robustness},
+  doi={10.1109/TRS.2024.3398127}
+}
+
+@ARTICLE{Zhou:etal:SensorsL2024,
+  author={Zhou, Yi and López-Benítez, Miguel and Yu*, Limin and Yue*, Yutao},
+  journal={IEEE Sensors Letters (high-quality journal focusing on sensors)},
+  title={{Text2Doppler: Generating Radar Micro–Doppler Signatures for Human Activity Recognition via Textual Descriptions}}, 
+  year={2024},
+  volume={8},
+  number={10},
+  pages={1-4},
+  keywords={Radar;Radar cross-sections;Legged locomotion;Sensors;Spectrogram;Pipelines;Noise;Microwave/millimeter wave sensors;human activity recognition (HAR);radar simulation;text-driven motion synthesis},
+  doi={10.1109/LSENS.2024.3457169}}
+
+@INPROCEEDINGS{Zhou:etal:RadarConf2024,
+  author={Zhou, Yi and Song, Ningfei and Ma, Jieming and Man, Ka Lok and López-Benítez, Miguel and Yu*, Limin and Yue*, Yutao},
+  year={2024},
+  title={{RAV4D: A Radar-Audio-Visual Dataset for Indoor Multi-Person Tracking}},
+  booktitle={Proceedings of the IEEE Radar Conference (RadarConf 2024, top-tier conference in radar, h5-index 31)},
+}
+
+@ARTICLE{Zhou:etal:SensorsJ2024,
+  author={Zhou, Yi and Yu, Xuliang and López-Benítez, Miguel and Yu*, Limin and Yue*, Yutao},
+  journal={IEEE Sensors Journal (Q1, rank 20/141,   86.0\%, IF=4.3)}, 
+  title={{Radar-Based Swimming Activity Recognition With Temporal Dynamic Convolution and Spectral Data Augmentation}}, 
+  year={2024},
+  volume={25},
+  number={13},
+  pages={23241-23252},
+  keywords={Spectrogram;Radar;Sports;Doppler effect;Data augmentation;Convolution;Feature extraction;Data augmentation;human activity recognition (HAR);micro-Doppler spectrogram},
+  doi={10.1109/JSEN.2024.3459085}}
+
+@article{Yao2023ExploringRD,
+  title={{Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review}},
+  author={Shanliang Yao and Runwei Guan and Zitian Peng and Chenhang Xu and Yilu Shi and Yong Yue and Eng Gee Lim and Hyungjoon Seo and Ka Lok Man and Xiaohui Zhu* and Yutao Yue*},
+ journal={IEEE Transactions on Intelligent Transportation Systems (Q1, rank 3/182,   98.6\%, IF=7.9)},
+  year={2023},
+  volume={26},
+  pages={7401-7425},
+  url={https://api.semanticscholar.org/CorpusID:266149576}
+}
+
+@INPROCEEDINGS{Guan:etal:ITSC2023,
+  author={Guan, Runwei and Yao, Shanliang and Zhu, Xiaohui and Man, Ka Lok and Lim, Eng Gee and Smith, Jeremy and Yue, Yong and Yue*, Yutao},
+  year={2023},
+  title={{Achelous: A Fast Unified Water-Surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar}},
+  booktitle={Proceedings of the IEEE Intelligent Transportation Systems Conference (ITSC 2023, top-tier conference in intelligent transportation, h5-index 55)}
+}
+
+@ARTICLE{Yao:etal:TIV2023,
+  author={Yao, Shanliang and Guan, Runwei and Huang, Xiaoyu and Li, Zhuoxiao and Sha, Xiangyu and Yue, Yong and Lim, Eng Gee and Seo, Hyungjoon and Man, Ka Lok and Zhu*, Xiaohui and Yue*, Yutao},
+  journal={IEEE Transactions on Intelligent Vehicles (Q1, rank 5/353,   98.7\%, IF=14.0)},
+  title={{Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review}}, 
+  year={2024},
+  volume={9},
+  number={1},
+  pages={2094-2128},
+  keywords={Sensors;Radar cross-sections;Cameras;Radar antennas;Tensors;Radar imaging;Autonomous driving;Autonomous driving;radar-camera fusion;object detection;semantic segmentation},
+  doi={10.1109/TIV.2023.3307157}
+}
+
+@article{GuanRW2023Riverway,
+title = {{Mask-VRDet: A robust riverway panoptic perception model based on dual graph fusion of vision and 4D mmWave radar}},
+journal={Robotics and Autonomous Systems (Q1, rank 5/399,   98.0\%, IF=5.6)},
+volume = {171},
+pages = {104572},
+year = {2024},
+issn = {0921-8890},
+doi = {https://doi.org/10.1016/j.robot.2023.104572},
+url = {https://www.sciencedirect.com/science/article/pii/S0921889023002117},
+author = {Runwei Guan and Shanliang Yao and Lulu Liu and Xiaohui Zhu and Ka Lok Man and Yong Yue and Jeremy Smith and Eng Gee Lim and Yutao Yue*},
+keywords = {Riverway panoptic perception, Fusion of vision and radar, Graph convolution network, Radar clutter removal}
+}
+
+@ARTICLE{Zhang:etal:TIM2023,
+  author={Zhang, Yuanyuan and Yang*, Rui and Yue*, Yutao and Lim, Eng Gee and Wang, Zidong},
+  journal={IEEE Transactions on Instrumentation and Measurement (Q1, rank 7/76,   91.5\%, IF=5.6)},
+  title={{An Overview of Algorithms for Contactless Cardiac Feature Extraction From Radar Signals: Advances and Challenges}}, 
+  year={2023},
+  volume={72},
+  number={},
+  pages={1-20},
+  keywords={Radar;Monitoring;Feature extraction;Signal processing algorithms;Ultra wideband radar;Vibrations;Sensors;Cardiac monitoring;contactless sensing;deep learning;radar sensing;vital sign monitoring},
+  doi={10.1109//TIM.2023.3300471}
+}
+
+@ARTICLE{Guan:etal:EAAI2023,
+  author={Guan, Runwei and Yao, Shanliang and Zhu, Xiaohui and Man, Ka Lok and Yue, Yong and Smith, Jeremy S. and Lim, Eng Gee and Yue*, Yutao},
+  year={2023},
+  title={{Efficient-VRNet: An Exquisite Fusion Network for Riverway Panoptic Perception based on Asymmetric Fair Fusion of Vision and 4D mmWave Radar}},
+  journal={Engineering Applications of Artificial Intelligence (Q1, rank 8/89,   91.6\%, IF=8.0)}
+}
+
+@Article{Zhou:etal:Sensors2022,
+AUTHOR = {Zhou, Yi and Liu, Lulu and Zhao, Haocheng and López-Benítez, Miguel and Yu, Limin and Yue*, Yutao},
+TITLE = {{Towards Deep Radar Perception for Autonomous Driving: Datasets, Methods, and Challenges}},
+JOURNAL = {Sensors(high-quality journal focusing on sensors)},
+VOLUME = {22},
+YEAR = {2022},
+NUMBER = {11},
+ARTICLE-NUMBER = {4208},
+URL = {https://www.mdpi.com/1424-8220/22/11/4208},
+PubMedID = {35684831},
+ISSN = {1424-8220},
+DOI = {10.3390/s22114208}
+}

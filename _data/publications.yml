@@ -1,171 +1,166 @@
 # Publications List - Organized by Year (Descending Order)
-# Based on paper.txt file
+# Based on di2_papers_20250926.txt file with complete venue descriptions
 
 2025:
-  - title: "IMTS is Worth Time×Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction"
+  - title: "IMTS is Worth Time x Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction"
     authors: ["Zhangyi Hu", "Jiemin Wu", "Hua Xu", "Mingqian Liao", "Ninghui Feng", "Bo Gao", "Songning Lai", "Yutao Yue"]
-    venue: "International Conference on Machine Learning (ICML 2025)"
+    venue: "Proceedings of the International Conference on Machine Learning (ICML 2025, top-tier conference in artificial intelligence, h5-index 272)"
     selected: true
     
   - title: "Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction"
     authors: ["Haozhe Jia", "Wenshuo Chen", "Zhihui Huang", "Lei Wang", "Hongru Xiao", "Nanqian Jia", "Keming Wu", "Songning Lai", "Bowen Tian", "Yutao Yue"]
-    venue: "ACM International Conference on Multimedia (ACM MM 2025)"
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, BNI Oral, top-tier conference in artificial intelligence, BNI = outstanding papers in the main conference, h5-index 119)"
     selected: true
     
   - title: "Learning New Concepts, Remembering the Old: Continual Learning for Multimodal Concept Bottleneck Models"
     authors: ["Songning Lai", "Mingqian Liao", "Zhangyi Hu", "Jiayu Yang", "Wenshuo Chen", "Hongru Xiao", "Jianheng Tang", "Haicheng Liao", "Yutao Yue"]
-    venue: "ACM International Conference on Multimedia (ACM MM 2025)"
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, BNI Oral, top-tier conference in artificial intelligence, BNI = outstanding papers in the main conference, h5-index 119)"
     selected: true
+    
+  - title: "WaterVG: Waterway Visual Grounding Based on Text-Guided Vision and mmWave Radar"
+    authors: ["Runwei Guan", "Liye Jia", "Shanliang Yao", "Fengyufan Yang", "Sheng Xu", "Erick Purwanto", "Xiaohui Zhu", "Ka Lok Man", "Eng Gee Lim", "Jeremy Smith", "Xuming Hu", "Yutao Yue"]
+    venue: "IEEE Transactions on Intelligent Transportation Systems (Q1, rank 3/182, 98.6%, IF=6.3), Vol. 26, No. 5, pp. 7275-7291"
+    selected: false
     
   - title: "ANT: Adaptive Neural Temporal-Aware Text-to-Motion Model"
     authors: ["Wenshuo Chen", "Kuimou Yu", "Haozhe Jia", "Kaishen Yuan", "Zexu Huang", "Bowen Tian", "Songning Lai", "Hongru Xiao", "Erhang Zhang", "Lei Wang", "Yutao Yue"]
-    venue: "ACM International Conference on Multimedia (ACM MM 2025)"
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, top-tier conference in artificial intelligence, h5-index 119)"
     selected: false
     
   - title: "From Guesswork to Guarantee: Towards Faithful Multimedia Web Forecasting with TimeSieve"
     authors: ["Songning Lai", "Ninghui Feng", "Jiechao Gao", "Hao Wang", "Haochen Sui", "Xin Zou", "Jiayu Yang", "Wenshuo Chen", "Lijie Hu", "Hang Zhao", "Xuming Hu", "Yutao Yue"]
-    venue: "ACM International Conference on Multimedia (ACM MM 2025)"
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, top-tier conference in artificial intelligence, h5-index 119)"
     selected: false
     
   - title: "Text2Weight: Bridging Natural Language and Neural Network Weight Spaces"
     authors: ["Bowen Tian", "Wenshuo Chen", "Zexi Li", "Songning Lai", "Jiemin Wu", "Yutao Yue"]
-    venue: "ACM International Conference on Multimedia (ACM MM 2025)"
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2025, top-tier conference in artificial intelligence, h5-index 119)"
     selected: false
     
   - title: "NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar"
     authors: ["Runwei Guan", "Jianan Liu", "Liye Jia", "Haocheng Zhao", "Shanliang Yao", "Xiaohui Zhu", "Ka Lok Man", "Eng Gee Lim", "Jeremy S. Smith", "Yutao Yue"]
-    venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)"
-    selected: false
-    
-  - title: "BioD2C: A Dual-Level Semantic Consistency Constraint Framework for Biomedical VQA"
-    authors: ["Zhengyang Ji", "Shang Gao", "Li Liu", "Yifan Jia", "Yutao Yue"]
-    venue: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)"
+    venue: "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025, top-tier conference in robotics and autonomous driving, h5-index 86)"
     selected: false
     
   - title: "NUMINA: A Natural Understanding Benchmark for Multi-dimensional Intelligence and Numerical Reasoning Abilities"
     authors: ["Changyu Zeng", "Yifan Wang", "Zimu Wang", "Wei Wang", "Zhengni Yang", "Muyi Bao", "Jimin Xiao", "Anh Nguyen", "Yutao Yue"]
-    venue: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+    venue: "Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, top-tier conference in natural language processing, h5-index 218)"
     selected: false
     
   - title: "UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection"
     authors: ["Haocheng Zhao", "Runwei Guan", "Taoyu Wu", "Ka Lok Man", "Limin Yu", "Yutao Yue"]
-    venue: "IEEE International Conference on Robotics and Automation (ICRA 2025)"
+    venue: "Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, top-tier conference in robotics and autonomous driving, h5-index 122)"
     selected: false
     
   - title: "DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving"
     authors: ["Songning Lai", "Tianlang Xue", "Hongru Xiao", "Lijie Hu", "Jiemin Wu", "Ninghui Feng", "Runwei Guan", "Haicheng Liao", "Zhenning Li", "Yutao Yue"]
-    venue: "IEEE International Conference on Robotics and Automation (ICRA 2025)"
+    venue: "Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, top-tier conference in robotics and autonomous driving, h5-index 122)"
     selected: false
     
   - title: "Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension"
     authors: ["Runwei Guan", "Ruixiao Zhang", "Ningwei Ouyang", "Jianan Liu", "Ka Lok Man", "Xiaohao Cai", "Ming Xu", "Jeremy Smith", "Eng Gee Lim", "Yutao Yue", "Hui Xiong"]
-    venue: "IEEE International Conference on Robotics and Automation (ICRA 2025)"
+    venue: "Proceedings of the IEEE International Conference on Robotics and Automation (ICRA 2025, top-tier conference in robotics and autonomous driving, h5-index 122)"
     selected: true
-    
-  - title: "Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review"
-    authors: ["Shanliang Yao", "Runwei Guan", "Zitian Peng", "Chenhang Xu", "Yilu Shi", "Weiping Ding", "Eng Gee Lim", "Yong Yue", "Hyungjoon Seo", "Ka Lok Man", "Jieming Ma", "Xiaohui Zhu", "Yutao Yue"]
-    venue: "IEEE Transactions on Intelligent Transportation Systems"
-    selected: false
     
   - title: "Spatial-Temporal Perception with Causal Inference for Naturalistic Driving Action Recognition"
     authors: ["Qing Chang", "Wei Dai", "Yutao Yue"]
-    venue: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025)"
+    venue: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025, top-tier conference in signal processing, h5-index 129)"
     selected: false
     
-  - title: "Referring Flexible Image Restoration"
+  - title: "BioD2C: A Dual-Level Semantic Consistency Constraint Framework for Biomedical VQA"
+    authors: ["Zhengyang Ji", "Shang Gao", "Li Liu", "Yifan Jia", "Yutao Yue"]
+    venue: "Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025, top-tier conference in medical AI)"
+    selected: false
+    
+  - title: "Referring flexible image restoration"
     authors: ["Runwei Guan", "Rongsheng Hu", "Zhuhao Zhou", "Tianlang Xue", "Ka Lok Man", "Jeremy Smith", "Eng Gee Lim", "Weiping Ding", "Yutao Yue"]
-    venue: "Expert Systems with Applications, 274:126857"
+    venue: "Expert Systems with Applications (Q1, rank 11/307, 96.0%, IF=7.5), Vol. 274, pp. 126857"
     selected: false
     
-  - title: "WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar"
-    authors: ["Runwei Guan", "Liye Jia", "Shanliang Yao", "Fengyufan Yang", "Erick Purwanto", "Sheng Xu", "Xiaohui Zhu", "Eng Gee Lim", "Jeremy Smith", "Ka Lok Man", "Xuming Hu", "Yutao Yue"]
-    venue: "IEEE Transactions on Intelligent Transportation Systems"
+  - title: "RePaIR: Repaired pruning at initialization resilience"
+    authors: ["Haocheng Zhao", "Runwei Guan", "Ka Lok Man", "Limin Yu", "Yutao Yue"]
+    venue: "Neural Networks (Q1, rank 4/115, 96.0%, IF=6.0), Vol. 184, pp. 107086"
     selected: false
     
-  - title: "radarODE: an ODE-Embedded Deep Learning Model for Contactless ECG Reconstruction from Millimeter-Wave Radar"
+  - title: "radarODE: An ODE-Embedded Deep Learning Model for Contactless ECG Reconstruction From Millimeter-Wave Radar"
     authors: ["Yuanyuan Zhang", "Runwei Guan", "Lingxiao Li", "Rui Yang", "Yutao Yue", "Eng Gee Lim"]
-    venue: "IEEE Transactions on Mobile Computing"
+    venue: "IEEE Transactions on Mobile Computing (Q1, rank 3/182, 96.5%, IF=8.9), Vol. 24, No. 10, pp. 9806-9821"
     selected: false
     
   - title: "radarODE-MTL: A Multitask Learning Framework With Eccentric Gradient Alignment for Robust Radar-Based ECG Reconstruction"
     authors: ["Yuanyuan Zhang", "Rui Yang", "Yutao Yue", "Eng Gee Lim"]
-    venue: "IEEE Transactions on Instrumentation and Measurement, 74"
+    venue: "IEEE Transactions on Instrumentation and Measurement (Q1, rank 7/76, 91.5%, IF=5.6), Vol. 74, pp. 1-15"
     selected: false
 
 2024:
-  - title: "Waterscenes: A multi-task 4d radar-camera fusion dataset and benchmarks for autonomous driving on water surfaces"
+  - title: "WaterScenes: A Multi-Task 4D Radar-Camera Fusion Dataset and Benchmarks for Autonomous Driving on Water Surfaces"
     authors: ["Shanliang Yao", "Runwei Guan", "Zhaodong Wu", "Yi Ni", "Zile Huang", "Ryan Wen Liu", "Yong Yue", "Weiping Ding", "Eng Gee Lim", "Hyungjoon Seo", "Ka Lok Man", "Jieming Ma", "Xiaohui Zhu", "Yutao Yue"]
-    venue: "IEEE Transactions on Intelligent Transportation Systems, 25"
+    venue: "IEEE Transactions on Intelligent Transportation Systems (Q1, rank 3/182, 98.6%, IF=7.9), Vol. 25, No. 11, pp. 16584-16598"
     selected: false
     
-  - title: "ASY-VRNet: Waterway panoptic driving perception model based on asymmetric fair fusion of vision and 4D mmWave radar"
+  - title: "ASY-VRNet: Waterway Panoptic Driving Perception Model based on Asymmetric Fair Fusion of Vision and 4D mmWave Radar"
     authors: ["Runwei Guan", "Shanliang Yao", "Ka Lok Man", "Xiaohui Zhu", "Yong Yue", "Jeremy Smith", "Eng Gee Lim", "Yutao Yue"]
-    venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)"
+    venue: "Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024, top-tier conference in robotics and autonomous driving, h5-index 86)"
     selected: true
-    
-  - title: "Mask-VRDet: A robust riverway panoptic perception model based on dual graph fusion of vision and 4D mmWave radar"
-    authors: ["Runwei Guan", "Shanliang Yao", "Lulu Liu", "Xiaohui Zhu", "Ka Lok Man", "Yong Yue", "Jeremy Smith", "Eng Gee Lim", "Yutao Yue"]
-    venue: "Robotics and Autonomous Systems"
-    selected: false
     
   - title: "Self-supervised learning for point cloud data: A survey"
     authors: ["Changyu Zeng", "Wei Wang", "Anh Nguyen", "Jimin Xiao", "Yutao Yue"]
-    venue: "Expert Systems with Applications"
+    venue: "Expert Systems with Applications (Q1, rank 11/307, 96.0%, IF=7.5), Vol. 237, pp. 121354"
+    selected: false
+    
+  - title: "Corruption Robustness Analysis of Radar Micro-Doppler Classification for Human Activity Recognition"
+    authors: ["Yi Zhou", "Xuliang Yu", "Miguel López-Benítez", "Limin Yu", "Yutao Yue"]
+    venue: "IEEE Transactions on Radar Systems (new flagship Transactions series in radar systems), Vol. 2, pp. 504-516"
     selected: false
     
   - title: "Text2Doppler: Generating Radar Micro–Doppler Signatures for Human Activity Recognition via Textual Descriptions"
     authors: ["Yi Zhou", "Miguel López-Benítez", "Limin Yu", "Yutao Yue"]
-    venue: "IEEE Sensors Letters"
+    venue: "IEEE Sensors Letters (high-quality journal focusing on sensors), Vol. 8, No. 10, pp. 1-4"
     selected: false
     
   - title: "RAV4D: A Radar-Audio-Visual Dataset for Indoor Multi-Person Tracking"
-    authors: ["Yi Zhou", "Ningfei Song", "Jieming Ma", "Ka Lok Man", "Miguel Lopez-Benitez", "Limin Yu", "Yutao Yue"]
-    venue: "IEEE Radar Conference (RadarConf 2024)"
+    authors: ["Yi Zhou", "Ningfei Song", "Jieming Ma", "Ka Lok Man", "Miguel López-Benítez", "Limin Yu", "Yutao Yue"]
+    venue: "Proceedings of the IEEE Radar Conference (RadarConf 2024, top-tier conference in radar, h5-index 31)"
     selected: false
     
-  - title: "Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review"
-    authors: ["Shanliang Yao", "Runwei Guan", "Zitian Peng", "Chenhang Xu", "Yilu Shi", "Yong Yue", "Eng Gee Lim", "Hyungjoon Seo", "Ka Lok Man", "Xiaohui Zhu", "Yutao Yue"]
-    venue: "IEEE Transactions on Intelligent Transportation Systems"
+  - title: "Radar-Based Swimming Activity Recognition With Temporal Dynamic Convolution and Spectral Data Augmentation"
+    authors: ["Yi Zhou", "Xuliang Yu", "Miguel López-Benítez", "Limin Yu", "Yutao Yue"]
+    venue: "IEEE Sensors Journal (Q1, rank 20/141, 86.0%, IF=4.3), Vol. 25, No. 13, pp. 23241-23252"
     selected: false
     
-  - title: "Corruption Robustness Analysis of Radar Micro-Doppler Classification for Human Activity Recognition"
-    authors: ["Yi Zhou", "Xuliang Yu", "Miguel Lopez-Benitez", "Limin Yu", "Yutao Yue"]
-    venue: "IEEE Transactions on Radar Systems"
+  - title: "Mask-VRDet: A robust riverway panoptic perception model based on dual graph fusion of vision and 4D mmWave radar"
+    authors: ["Runwei Guan", "Shanliang Yao", "Lulu Liu", "Xiaohui Zhu", "Ka Lok Man", "Yong Yue", "Jeremy Smith", "Eng Gee Lim", "Yutao Yue"]
+    venue: "Robotics and Autonomous Systems (Q1, rank 5/399, 98.0%, IF=5.6), Vol. 171, pp. 104572"
     selected: false
     
-  - title: "Radar-Based Swimming Activity Recognition with Temporal Dynamic Convolution and Spectral Data Augmentation"
-    authors: ["Yi Zhou", "Xuliang Yu", "Miguel Lopez-Benitez", "Limin Yu", "Yutao Yue"]
-    venue: "IEEE Sensors Journal"
-    selected: false
-    
-  - title: "RePaIR: Repaired Pruning at Initialization Resilience"
-    authors: ["Haocheng Zhao", "Runwei Guan", "Ka Lok Man", "Limin Yu", "Yutao Yue"]
-    venue: "Neural Networks"
+  - title: "Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review"
+    authors: ["Shanliang Yao", "Runwei Guan", "Xiaoyu Huang", "Zhuoxiao Li", "Xiangyu Sha", "Yong Yue", "Eng Gee Lim", "Hyungjoon Seo", "Ka Lok Man", "Xiaohui Zhu", "Yutao Yue"]
+    venue: "IEEE Transactions on Intelligent Vehicles (Q1, rank 5/353, 98.7%, IF=14.0), Vol. 9, No. 1, pp. 2094-2128"
     selected: false
 
 2023:
-  - title: "Radar-camera fusion for object detection and semantic segmentation in autonomous driving: A comprehensive review"
-    authors: ["Shanliang Yao", "Runwei Guan", "Xiaoyu Huang", "Zhuoxiao Li", "Xiangyu Sha", "Yong Yue", "Eng Gee Lim", "Hyungjoon Seo", "Ka Lok Man", "Xiaohui Zhu", "Yutao Yue"]
-    venue: "IEEE Transactions on Intelligent Vehicles"
+  - title: "Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review"
+    authors: ["Shanliang Yao", "Runwei Guan", "Zitian Peng", "Chenhang Xu", "Yilu Shi", "Yong Yue", "Eng Gee Lim", "Hyungjoon Seo", "Ka Lok Man", "Xiaohui Zhu", "Yutao Yue"]
+    venue: "IEEE Transactions on Intelligent Transportation Systems (Q1, rank 3/182, 98.6%, IF=7.9), Vol. 26, pp. 7401-7425"
     selected: false
     
-  - title: "An overview of algorithms for contactless cardiac feature extraction from radar signals: Advances and challenges"
-    authors: ["Yuanyuan Zhang", "Rui Yang", "Yutao Yue", "Eng Gee Lim", "Zidong Wang"]
-    venue: "IEEE Transactions on Instrumentation and Measurement"
-    selected: false
-    
-  - title: "Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar"
+  - title: "Achelous: A Fast Unified Water-Surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar"
     authors: ["Runwei Guan", "Shanliang Yao", "Xiaohui Zhu", "Ka Lok Man", "Eng Gee Lim", "Jeremy Smith", "Yong Yue", "Yutao Yue"]
-    venue: "IEEE Intelligent Transportation Systems Conference (ITSC 2023)"
+    venue: "Proceedings of the IEEE Intelligent Transportation Systems Conference (ITSC 2023, top-tier conference in intelligent transportation, h5-index 55)"
+    selected: false
+    
+  - title: "An Overview of Algorithms for Contactless Cardiac Feature Extraction From Radar Signals: Advances and Challenges"
+    authors: ["Yuanyuan Zhang", "Rui Yang", "Yutao Yue", "Eng Gee Lim", "Zidong Wang"]
+    venue: "IEEE Transactions on Instrumentation and Measurement (Q1, rank 7/76, 91.5%, IF=5.6), Vol. 72, pp. 1-20"
     selected: false
     
   - title: "Efficient-VRNet: An Exquisite Fusion Network for Riverway Panoptic Perception based on Asymmetric Fair Fusion of Vision and 4D mmWave Radar"
     authors: ["Runwei Guan", "Shanliang Yao", "Xiaohui Zhu", "Ka Lok Man", "Yong Yue", "Jeremy S. Smith", "Eng Gee Lim", "Yutao Yue"]
-    venue: "Engineering Applications of Artificial Intelligence"
+    venue: "Engineering Applications of Artificial Intelligence (Q1, rank 8/89, 91.6%, IF=8.0)"
     selected: false
 
 2022:
   - title: "Towards Deep Radar Perception for Autonomous Driving: Datasets, Methods, and Challenges"
     authors: ["Yi Zhou", "Lulu Liu", "Haocheng Zhao", "Miguel López-Benítez", "Limin Yu", "Yutao Yue"]
-    venue: "Sensors"
+    venue: "Sensors (high-quality journal focusing on sensors), Vol. 22, No. 11, Article 4208"
     selected: false
