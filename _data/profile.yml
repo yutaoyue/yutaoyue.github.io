@@ -1,9 +1,9 @@
-primary_name: "岳玉涛 Yutao (Max) Yue"
+primary_name: "Yutao (Max) Yue"
 secondary_name: ""
 navbar_name: "Yutao Yue"
 
 positions:
-- name: Associate Professor (副教授)
+- name: Associate Professor
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/hkustgz.png  # Logo is optional
 # - name: IEEE & CCF Senior Member
@@ -50,10 +50,10 @@ education:
 experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/hkustgz.png
-  position: Associate Professor (副教授)
+  position: Associate Professor
   date: Mar. 2024 - present
 - name: Jiangsu Industrial Technology Research Institute - Institute of Deep Perception Technology
-  position: Founder & Director / Chief Scientific Advisor (创始人、所长/首席科学顾问)
+  position: Founder & Director / Chief Scientific Advisor
   logo: /assets/jitri.png
   date: Feb. 2018 - present
 - name: Kuang-Chi Institute of Advanced Technology / Kuang-Chi Group
