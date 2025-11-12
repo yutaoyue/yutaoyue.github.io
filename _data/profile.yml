@@ -1,11 +1,11 @@
 primary_name: "Yutao (Max) Yue"
 secondary_name: ""
-navbar_name: "Yutao Yue"
+navbar_name: "Yutao (Max) Yue"
 
 positions:
-- name: Associate Professor
-- name: The Hong Kong University of Science and Technology (Guangzhou)
+- name: Associate Professor of The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/hkustgz.png  # Logo is optional
+- name: Founder of Institute of Deep Perception Technology JITRI
 # - name: IEEE & CCF Senior Member
 
 
