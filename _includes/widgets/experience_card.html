@@ -51,6 +51,21 @@
                                     </div>
                                 </li>
                             </ul>
+                            <!-- 只需要添加这一段CSS -->
+<style>
+    /* 课程标题：常规字重（非加粗）+ 增大字号 */
+    .course-title {
+        font-weight: normal; /* 确保非加粗 */
+        font-size: 1.1rem; /* 比默认.small的字号大，可调整（比如1.2rem、17px） */
+        /* 可选：让标题颜色稍微突出（比如深灰色），增强辨识度 */
+        color: #212529; /* 默认文字深灰色，可根据页面调整 */
+    }
+    /* 确保链接字号和标题一致（继承父类样式） */
+    .course-title a {
+        font-size: inherit; /* 继承course-title的字号，避免链接字号偏小 */
+        color: inherit; /* 可选：让链接颜色和标题一致，更协调 */
+    }
+</style>
                         </div>
                     </div>
                     {% endif %}
