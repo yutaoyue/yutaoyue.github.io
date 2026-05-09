@@ -38,7 +38,7 @@
     selected: false
 
   - title: "RoadSceneVQA: Benchmarking Visual Question Answering in Roadside Perception Systems for Intelligent Transportation System"
-    authors: ["Runwei Guan", "Rongsheng Hu", "Shangshu Chen", "Ningyuan Xiao", "Xia Xue", "Jiayang Liu", "Beibei Chen", "Ziren Tang", "Ningwei Ouyang", "Shaofeng Liang", "Yuxuan Fan", "Wanjie Sun", "Yutao Yue*"]
+    authors: ["Runwei Guan*", "Rongsheng Hu", "Shangshu Chen", "Ningyuan Xiao", "Xia Xue", "Jiayang Liu", "Beibei Chen", "Ziren Tang", "Ningwei Ouyang", "Shaofeng Liang", "Yuxuan Fan", "Wanjie Sun", "Yutao Yue*"]
     venue: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026, top-tier conference in artificial intelligence, h5-index 232)"
     selected: false
 
@@ -54,7 +54,7 @@
 
   - title: "Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models"
     authors: ["Songning Lai", "Jiayu Yang", "Yu Huang", "Lijie Hu", "Tianlang Xue", "Zhangyi Hu", "Jiaxu Li", "Haicheng Liao", "Yutao Yue*"]
-    venue: "Transactions on Machine Learning Research (TMLR 2026)"
+    venue: "Transactions on Machine Learning Research (TMLR, new top journal of machine learning)"
     selected: false
 
 2025:
