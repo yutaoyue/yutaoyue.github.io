@@ -18,7 +18,7 @@
     selected: true
 
   - title: "All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs"
-    authors: ["Xi Chen", "Mingyu Jin", "Jingcheng Niu*", "Yutong Yin", "Jinman Zhao", "Bangwei Guo", "Dimitris N. Metaxas", "Zhaoran Wang", "Yutao Yue*", "Gerald Penn"]
+    authors: ["Xi Chen", "Mingyu Jin", "Jingcheng Niu", "Yutong Yin", "Jinman Zhao", "Bangwei Guo", "Dimitris N. Metaxas", "Zhaoran Wang", "Yutao Yue*", "Gerald Penn*"]
     venue: "Proceedings of the International Conference on Machine Learning (ICML 2026, top-tier conference in artificial intelligence, h5-index 272)"
     selected: true
 
