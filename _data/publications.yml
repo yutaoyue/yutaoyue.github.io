@@ -2,6 +2,16 @@
 # Based on di2_papers_20250926.txt file with complete venue descriptions
 
 2026:
+  - title: "Diving-R1: Empowering Multimodal LLMs with Traceable Progressive Reasoning for Interpretable Diving Action Quality Assessment"
+    authors: ["Kaishen Yuan", "Yuting Zhang", "Bohao Xing", "Wenshuo Chen", "Yang Yang", "Shaofeng Liang", "Zitong Yu", "Yutao Yue*"]
+    venue: "Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS 2026, top-tier conference in artificial intelligence)"
+    selected: true
+
+  - title: "ClinStab: Stability-Oriented Learning for Medical Time Series via Dual-Stream Alignment"
+    authors: ["Songning Lai", "Haoxuan Xu", "Yi Liu", "Wenshuo Chen", "Ninghui Feng", "Jiayu Yang", "Haoang Li", "Yutao Yue*"]
+    venue: "Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS 2026, top-tier conference in artificial intelligence)"
+    selected: true
+
   - title: "RLIE: Rule Generation with Logistic Regression, Iterative Refinement, and Evaluation for Large Language Models"
     authors: ["Yang Yang", "Hua Xu", "Zhangyi Hu", "Yutao Yue*"]
     venue: "Proceedings of the International Conference on Machine Learning (ICML 2026, top-tier conference in artificial intelligence, h5-index 272)"
@@ -32,9 +42,44 @@
     venue: "Proceedings of the International Conference on Learning Representations (ICLR 2026, top-tier conference in artificial intelligence, h5-index 362)"
     selected: true
 
-  - title: "Understanding the Anchoring Effect of LLM with Synthetic Data: Existence, Mechanism, and Potential Mitigations"
-    authors: ["Yiming Huang", "Biquan Bie", "Zuqiu Na", "Weilin Ruan", "Songxin Lei", "Yutao Yue*", "Xinlei He*"]
-    venue: "Proceedings of the ICLR Workshop on Human-Centric AI Reliability (ICLR HCAIR 2026)"
+  - title: "Delta Score Matters! Spatial Adaptive Multi Guidance in Diffusion Models"
+    authors: ["Haosen Li", "Wenshuo Chen", "Lei Wang", "Shaofeng Liang", "Bowen Tian", "Songning Lai", "Yutao Yue*"]
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2026, BNI Oral, top-tier conference in artificial intelligence, BNI = outstanding papers in the main conference, h5-index 119)"
+    selected: true
+
+  - title: "Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization"
+    authors: ["Haosen Li", "Wenshuo Chen", "Lei Wang", "Shaofeng Liang", "Haozhe Jia", "Yutao Yue*"]
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2026, BNI, top-tier conference in artificial intelligence, BNI = outstanding papers in the main conference, h5-index 119)"
+    selected: true
+
+  - title: "Free-T2M: Frequency-Aware Coarse-to-Fine Text-to-Motion Generation"
+    authors: ["Wenshuo Chen", "Haozhe Jia", "Songning Lai", "Lei Wang", "Pengyu Yin", "Shaofeng Liang", "Yuqi Lin", "Hongru Xiao", "Lijie Hu", "Yutao Yue*"]
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2026, BNI, top-tier conference in artificial intelligence, BNI = outstanding papers in the main conference, h5-index 119)"
+    selected: true
+
+  - title: "PACE: High-Precision Goal-Conditioned Humanoid Motion via Decoupled Flow Matching"
+    authors: ["Youcheng Fan", "Haozhe Jia", "Jianfei Song", "Wenshuo Chen", "Yuan Zhang", "Shaofeng Liang", "Yutao Yue*", "Wei Zhang"]
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2026, top-tier conference in artificial intelligence, h5-index 119)"
+    selected: false
+
+  - title: "Z²-Sampling: Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models"
+    authors: ["Haosen Li", "Wenshuo Chen", "Shaofeng Liang", "Lei Wang", "Kaishen Yuan", "Yutao Yue*"]
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2026, top-tier conference in artificial intelligence, h5-index 119)"
+    selected: false
+
+  - title: "When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking"
+    authors: ["Shaofeng Liang", "Runwei Guan", "Wenshuo Chen", "Jiemin Wu", "Bowen Tian", "Haozhe Jia", "Kaishen Yuan", "Songning Lai", "Daizong Liu", "Yutao Yue*"]
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2026, top-tier conference in artificial intelligence, h5-index 119)"
+    selected: false
+
+  - title: "UniAR: A Unified Framework for Autism Recognition Enhanced by Multi-View Prompt Learning"
+    authors: ["Lei Xin", "Zeheng Wang", "Jiayin Zhu", "Shihong Huang", "Fanhu Zeng", "Changjiang Jiang", "Dengbo He", "Yutao Yue*", "Zhenglun Kong*"]
+    venue: "Proceedings of the ACM International Conference on Multimedia (ACM MM 2026, top-tier conference in artificial intelligence, h5-index 119)"
+    selected: false
+
+  - title: "ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding"
+    authors: ["Zirui Wang", "Yusen Hou", "Shaofeng Liang", "Bowen Tian", "Yanlin Zhang", "Wenshuo Chen*", "Yutao Yue*"]
+    venue: "Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2026, top-tier conference in natural language processing, h5-index 218)"
     selected: false
 
   - title: "RoadSceneVQA: Benchmarking Visual Question Answering in Roadside Perception Systems for Intelligent Transportation System"
@@ -42,19 +87,49 @@
     venue: "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026, top-tier conference in artificial intelligence, h5-index 232)"
     selected: false
 
-  - title: "Hypothesis Generation via LLM-Automated Language Bias for ILP"
-    authors: ["Yang Yang", "Jiemin Wu", "Yutao Yue*"]
-    venue: "Proceedings of the AAAI Conference on Artificial Intelligence Bridge Program on LMReasoning (AAAI 2026 Bridge, top-tier conference in artificial intelligence, h5-index 232)"
-    selected: false
-
   - title: "DIFFRIM: A Diffusion-Driven Model for High Efficiency Radar Interference Mitigation"
     authors: ["Lulu Liu", "Runwei Guan", "Kaishen Yuan", "Sheng Xu", "Fei Ma", "Yutao Yue*"]
     venue: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026, top-tier conference in signal processing, h5-index 137)"
     selected: false
 
+  - title: "Understanding the Anchoring Effect of LLM with Synthetic Data: Existence, Mechanism, and Potential Mitigations"
+    authors: ["Yiming Huang", "Biquan Bie", "Zuqiu Na", "Weilin Ruan", "Songxin Lei", "Yutao Yue*", "Xinlei He*"]
+    venue: "Proceedings of the ICLR Workshop on Human-Centric AI Reliability (ICLR HCAIR 2026)"
+    selected: false
+
+  - title: "Hypothesis Generation via LLM-Automated Language Bias for ILP"
+    authors: ["Yang Yang", "Jiemin Wu", "Yutao Yue*"]
+    venue: "Proceedings of the AAAI Conference on Artificial Intelligence Bridge Program on LMReasoning (AAAI 2026 Bridge, top-tier conference in artificial intelligence, h5-index 232)"
+    selected: false
+
+  - title: "All-Optical Logic Processing Unit Using Kerr Nonlinearity of MXene"
+    authors: ["Yanqi Ge", "Wenkai Wang", "Meng Wang", "Shoukai Zhang", "Yuanjiang Zhong", "Yule Zhang", "Songrui Wei", "Bowen Du", "Huide Wang", "Meng Qiu", "Guoqing Liu", "Liangjie Zhang", "Jianqing Li", "Yutao Yue", "Han Zhang*"]
+    venue: "Nature Communications (Q1, rank 8/140, 94.6%, IF=18.1), Vol. 17, Article 4078"
+    selected: false
+
   - title: "Multimodal Deception in Explainable AI: Concept-Level Backdoor Attacks on Concept Bottleneck Models"
     authors: ["Songning Lai", "Jiayu Yang", "Yu Huang", "Lijie Hu", "Tianlang Xue", "Zhangyi Hu", "Jiaxu Li", "Haicheng Liao", "Yutao Yue*"]
     venue: "Transactions on Machine Learning Research (TMLR, new top journal of machine learning)"
+    selected: false
+
+  - title: "From High-SNR Radar Signal to ECG: A Transfer Learning Model With Cardio-Focusing Algorithm for Scenarios With Limited Data"
+    authors: ["Yuanyuan Zhang", "Haocheng Zhao", "Sijie Xiong", "Rui Yang*", "Eng Gee Lim", "Yutao Yue*"]
+    venue: "IEEE Transactions on Mobile Computing (Q1, rank 3/182, 96.5%, IF=8.9), Vol. 25, No. 4, pp. 4520-4534"
+    selected: false
+
+  - title: "Achelous++: Power-Oriented Multi-Task Panoptic Waterway Perception Framework Based on Vision-Radar Fusion"
+    authors: ["Runwei Guan*", "Haocheng Zhao", "Shanliang Yao", "Limin Yu", "Xiaohui Zhu", "Ryan Wen Liu", "Eng Gee Lim", "Weiping Ding", "Yutao Yue*", "Hui Xiong*"]
+    venue: "Applied Soft Computing (Q1, IF=7.8), Vol. 192, Article 114787"
+    selected: false
+
+  - title: "Design of a Compact Hybrid Metamaterial Slab for Enhanced Efficiency in Wireless Power Transfer Applications"
+    authors: ["Xiaozhe Ji", "Jingchen Wang*", "Ka Lok Man", "Eng Gee Lim", "Yutao Yue*", "Jiafeng Zhou"]
+    venue: "IEEE Antennas and Wireless Propagation Letters (flagship letters journal of the IEEE Antennas and Propagation Society), Vol. 25, No. 7, pp. 2848-2852"
+    selected: false
+
+  - title: "M2DG-TPV: A Matrix-based Tri-Perspective View 3D Perception Model with 2D Gaussian Recovered Voxels"
+    authors: ["Fengyufan Yang", "Runwei Guan", "Ka Lok Man", "Erick Purwanto", "Jeremy S. Smith", "Yutao Yue*"]
+    venue: "IEEE Access (IEEE open-access multidisciplinary journal), Vol. 14"
     selected: false
 
 2025:
@@ -100,7 +175,7 @@
     
   - title: "NUMINA: A Natural Understanding Benchmark for Multi-dimensional Intelligence and Numerical Reasoning Abilities"
     authors: ["Changyu Zeng", "Yifan Wang", "Zimu Wang", "Wei Wang", "Zhengni Yang", "Muyi Bao", "Jimin Xiao", "Anh Nguyen", "Yutao Yue*"]
-    venue: "Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025, top-tier conference in natural language processing, h5-index 218)"
+    venue: "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings, top-tier conference in natural language processing)"
     selected: false
     
   - title: "UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection"
@@ -123,11 +198,21 @@
     venue: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025, top-tier conference in signal processing, h5-index 129)"
     selected: false
     
+  - title: "PEPL: Precision-Enhanced Pseudo-Labeling for Fine-Grained Image Classification in Semi-Supervised Learning"
+    authors: ["Bowen Tian", "Songning Lai", "Lujundong Li", "Zhihao Shuai", "Runwei Guan", "Tian Wu", "Yutao Yue*"]
+    venue: "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2025, top-tier conference in signal processing, h5-index 129)"
+    selected: false
+
   - title: "BioD2C: A Dual-Level Semantic Consistency Constraint Framework for Biomedical VQA"
     authors: ["Zhengyang Ji", "Shang Gao", "Li Liu", "Yifan Jia", "Yutao Yue*"]
     venue: "Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025, top-tier conference in medical AI)"
     selected: false
     
+  - title: "Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components"
+    authors: ["Yuanyuan Zhang", "Sijie Xiong", "Rui Yang*", "Eng Gee Lim", "Yutao Yue*"]
+    venue: "Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2025, flagship conference of the IEEE Engineering in Medicine and Biology Society)"
+    selected: false
+
   - title: "Referring flexible image restoration"
     authors: ["Runwei Guan", "Rongsheng Hu", "Zhuhao Zhou", "Tianlang Xue", "Ka Lok Man", "Jeremy Smith", "Eng Gee Lim", "Weiping Ding", "Yutao Yue*"]
     venue: "Expert Systems with Applications (Q1, rank 11/307, 96.0%, IF=7.5), Vol. 274, pp. 126857"
